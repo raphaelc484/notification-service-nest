@@ -1,0 +1,5 @@
+Podemos manter dentro de infra tudo que for externo a nossa aplicação.
+
+- Banco de dados
+- Conexão com outras APIs
+- Rotas HTTP
